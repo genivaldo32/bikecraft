@@ -8,6 +8,7 @@
 /* Utilidades */
 @import "./utilidades/componentes.css";
 
+
 /* Home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -20,6 +21,7 @@
 
 /* Bicicleta */
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 
 /* Seguros */
 @import "./seguros/seguros.css";

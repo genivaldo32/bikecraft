@@ -1,7 +1,7 @@
 .bicicleta {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  align-items: center;
+  align-items: start;
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -51,6 +51,7 @@
   padding: 4px 8px;
   border-radius: 4px;
 }
+
 .bicicleta-conteudo h2 {
   text-transform: uppercase;
   letter-spacing: 0.015em;
@@ -90,7 +91,6 @@
 .bicicleta-ficha li:last-child {
   border-bottom: none;
 }
-
 
 .bicicleta-ficha span {
   color: var(--cor-6);
