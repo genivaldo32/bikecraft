@@ -13,7 +13,7 @@
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-.contato-datos {
+.contato-dados {
   border-radius: 5px 0 0 5px;
   background: var(--cor-12);
 }
@@ -45,7 +45,7 @@
 }
 
 .contato-meios a:hover {
-  color: var(--cor-0)
+  color: var(--cor-0);
 }
 
 .contato-meios a:first-child {
